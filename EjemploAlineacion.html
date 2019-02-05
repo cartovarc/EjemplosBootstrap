@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Ejemplos Bootstrap</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie-edge">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css", href="css/bootstrap.css">
+        <style type="text/css">
+            .conborde{
+                border:1px solid black;
+            }
+            .uno{
+                background-color: mediumturquoise;
+            }
+            .dos{
+                background-color: greenyellow;
+            }
+            .tres{
+                background-color: hotpink;
+            }
+            .cuatro{
+                background-color: red;
+            }
+            .cinco{
+                background-color: coral;
+            }
+            .seis{
+                background-color: blueviolet;
+            }
+            
+
+        </style>
+
+    </head>
+
+    <body>
+        <h3><p class="fixed-top tres">Texto fijado arriba aproposito </p></h3>
+
+        <br>
+        <h3>Alineacion dentro de una columna: </h3>
+        <div class="container uno">
+            
+            <div class="row">
+                <div class="col dos">
+                    <div>
+                        <span class="float-left">
+                            Texto hacia la izquierda AZUL  
+                        </span>
+                        <span class="float-right">
+                            Texto hacia la derecha AZUL
+                        </span>
+                    </div>
+                </div>
+
+                <div class="col tres">
+                        <div>
+                            <span class="float-left">
+                                Texto hacia la izquierda VERDE
+                            </span>
+                            <span class="float-right">
+                                Texto hacia la derecha VERDE
+                            </span>
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+        <br>
+        <h3>Alineacion para distintas dimensiones:</h3>
+        <div class="container uno">
+
+            <ul>
+                <li>- [<= 575]</li>   
+                <li>SM- [576 - 767]</li>    
+                <li>MD- [768 - 991]</li>
+                <li>LG- [992 - 1199]</li>   
+                <li>XL- [1200 >= ]</li>
+            </ul>
+
+            <div class="row d-block cuatro">
+                <div class="float-sm-right">Uno</div><br>
+                <div class="float-md-right">Dos</div><br>
+                <div class="float-lg-right">Tres</div><br>
+                <div class="float-xl-right">Cuatro</div><br>
+                <div class="float-none">Cinco</div>
+            </div>
+
+        </div>
+
+        <br>
+        <h3>Alineacion horizontal:</h3>
+        <div class="container uno">
+            <h3>Alinear contenido al centro:</h3>
+            <div class="row justify-content-center cinco">
+                <div class="col-4 seis">4</div><br>
+                <div class="col-4 seis">4</div><br>
+            </div>
+
+            <h3>Alinear contenido a la izquierda (por defecto):</h3>
+            <div class="row justify-content-start cinco">
+                <div class="col-4 seis">4</div><br>
+                <div class="col-4 seis">4</div><br>
+            </div>
+
+            <h3>Alinear contenido a la derecha:</h3>
+            <div class="row justify-content-end cinco">
+                <div class="col-4 seis">4</div><br>
+                <div class="col-4 seis">4</div><br>
+            </div>
+
+            <h3>Alinear contenido distribuido 1:</h3>
+            <div class="row justify-content-between cinco">
+                <div class="col-3 seis">3</div><br>
+                <div class="col-3 seis">3</div><br>
+                <div class="col-3 seis">3</div><br>
+            </div>
+            
+            <h3>Alinear contenido distribuido 2:</h3>
+            <div class="row justify-content-around cinco">
+                <div class="col-3 seis">3</div><br>
+                <div class="col-3 seis">3</div><br>
+                <div class="col-3 seis">3</div><br>
+            </div>
+        </div>
+        
+        <br>
+        <h3>Alineacion Vertical:</h3>
+        <div class="container uno">
+            <div class="row cinco" style="height: 200px">
+                    <div class="col-3 align-self-end seis">Alineada al final</div><br>
+                    <div class="col-3 align-self-start seis">Alineada al inicio (por defecto)</div><br>
+                    <div class="col-3 align-self-center seis">Alineada al final</div><br>
+            </div>
+        </div>
+
+        <script src="js/jquery-3.3.1.slim.min.js"></script>
+        <script src="js/popper.min.js7 "></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+
+</html>
+
