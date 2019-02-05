@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Ejemplos Bootstrap</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie-edge">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css", href="css/bootstrap.css">
+        <style type="text/css">
+            .conborde{
+                border:1px solid black;
+            }
+            .uno{
+                background-color: mediumturquoise;
+            }
+            .dos{
+                background-color: greenyellow;
+            }
+            .tres{
+                background-color: hotpink;
+            }
+            .cuatro{
+                background-color: red;
+            }
+            .cinco{
+                background-color: coral;
+            }
+            .seis{
+                background-color: blueviolet;
+            }
+            
+
+        </style>
+
+    </head>
+
+    <body>
+        <br>
+        <h3>Ejemplo ocultar publicidad para dispositivos de resolucion SM- y -</h3>
+
+        <code>&lt;div class="col-12 col-sm-12 col-md-6  col-lg-2 col-xl-2   d-none d-md-block"&gt;</code><br>
+        <code>&lt;div class="col-12 col-sm-12 col-md-6  col-lg-8 col-xl-8"&gt;</code><br>
+        <code>&lt;div class="col-12 col-sm-12 col-md-12 col-lg-2 col-xl-2   d-none d-md-block"&gt;</code><br>
+        <ul>
+            <li>- [<= 575]</li>   
+            <li>SM- [576 - 767]</li>    
+            <li>MD- [768 - 991]</li>
+            <li>LG- [992 - 1199]</li>   
+            <li>XL- [1200 >= ]</li>
+        </ul>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h3>Cabecera</h3>
+                    <p>Mi madre va a comprar tomates y el chico le trae unos ajos. Más tarde me cogió un juego para la Play Station 4 de fútbol y el encargado le trajo uno de baloncesto y tenis.</p>
+                </div>  
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6  col-lg-2 col-xl-2   d-none d-md-block   conborde uno">PUBLICIDAD 1</div>
+                <div class="col-12 col-sm-12 col-md-6  col-lg-8 col-xl-8                       conborde dos">contenido</div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-2 col-xl-2   d-none d-md-block   conborde tres">PUBLICIDAD 2</div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <h3>Pie de pagina</h3>
+                    <p>A mí en mi tiempo libre me encanta estar con el móvil pero juego al fútbol con mis amigos, pero también me gusta escuchar música pero miro una red social, instagram.</p>
+                </div>  
+            </div>
+        </div>
+
+
+        <br>
+        <h3>Sin ocultar: </h3>
+        <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>Cabecera</h3>
+                        <p>Mi madre va a comprar tomates y el chico le trae unos ajos. Más tarde me cogió un juego para la Play Station 4 de fútbol y el encargado le trajo uno de baloncesto y tenis.</p>
+                    </div>  
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-6  col-lg-2 col-xl-2    conborde uno">PUBLICIDAD 1</div>
+                    <div class="col-12 col-sm-12 col-md-6  col-lg-8 col-xl-8    conborde dos">contenido</div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-2 col-xl-2    conborde tres">PUBLICIDAD 2</div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h3>Pie de pagina</h3>
+                        <p>A mí en mi tiempo libre me encanta estar con el móvil pero juego al fútbol con mis amigos, pero también me gusta escuchar música pero miro una red social, instagram.</p>
+                    </div>  
+                </div>
+            </div>
+
+            <br>
+            <h3>Ocultando pero solo especificanto col-12 (mobile first strategy):</h3>
+
+            <code>&lt;div class="col-12 d-none d-md-block"&gt;</code><br>
+            <code>&lt;div class="col-12"&gt;</code><br>
+            <code>&lt;div class="col-12 d-none d-md-block"&gt;</code><br>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>Cabecera</h3>
+                        <p>Mi madre va a comprar tomates y el chico le trae unos ajos. Más tarde me cogió un juego para la Play Station 4 de fútbol y el encargado le trajo uno de baloncesto y tenis.</p>
+                    </div>  
+                </div>
+                <div class="row">
+                    <div class="col-12 d-none d-md-block   conborde uno">PUBLICIDAD 1</div>
+                    <div class="col-12                     conborde dos">contenido</div>
+                    <div class="col-12 d-none d-md-block   conborde tres">PUBLICIDAD 2</div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h3>Pie de pagina</h3>
+                        <p>A mí en mi tiempo libre me encanta estar con el móvil pero juego al fútbol con mis amigos, pero también me gusta escuchar música pero miro una red social, instagram.</p>
+                    </div>  
+                </div>
+            </div>
+
+        <script src="js/jquery-3.3.1.slim.min.js"></script>
+        <script src="js/popper.min.js7 "></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+
+</html>
+
