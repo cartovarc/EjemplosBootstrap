@@ -8,3 +8,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [Ocultación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploOcultacion.html)
 * [Alineación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploAlineacion.html)
 * [Tamaño](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTamanos.html)
+* [Tipografia](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTipografia.html)
