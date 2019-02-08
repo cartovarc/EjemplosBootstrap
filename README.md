@@ -4,7 +4,7 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 
 ## Ejemplos tratados:
 
-* [Sistemas de rejilla o Contenedores](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploAlineacion.html)
+* [Sistemas de rejilla o Contenedores](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploContenedores.html)
 * [Ocultación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploOcultacion.html)
 * [Alineación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploAlineacion.html)
-* [Tamaño](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemplosTamanos.html)
+* [Tamaño](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTamanos.html)
