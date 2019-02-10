@@ -12,4 +12,6 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [Background](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBackground.html)
 * [Tablas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTablas.html)
 * [Imagenes](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploImagenes.html)
+* [Jumbotron](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploJumbotron.html)
+
 
