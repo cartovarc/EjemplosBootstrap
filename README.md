@@ -9,3 +9,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [Alineación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploAlineacion.html)
 * [Tamaño](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTamanos.html)
 * [Tipografia](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTipografia.html)
+* [Background](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBackground.html)
