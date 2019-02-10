@@ -11,4 +11,5 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [Tipografia](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTipografia.html)
 * [Background](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBackground.html)
 * [Tablas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTablas.html)
+* [Imagenes](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploImagenes.html)
 
