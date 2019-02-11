@@ -17,3 +17,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [11. Grupo Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploGruposBotones.html)
 * [12. Insignias](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploInsignias.html)
 * [13. Barras Progreso](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBarrasProgreso.html)
+* [14. Paginación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploPaginacion.html)
