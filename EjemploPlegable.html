@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Ejemplos Bootstrap</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie-edge">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css", href="css/bootstrap.css">
+        <style type="text/css">
+        </style>
+
+    </head>
+    <br>
+    <br>
+    <body>
+        <div class="container">
+            <div class="row fila">
+                <div class="col-6">
+                    Ejemplo Plegable: Tambien funcionan con botones, en vez de href se debe usar data-target
+                    <br>
+                    <a data-toggle="collapse" href="#uno">Primero</a>
+                    <div id="uno" class="collapse">Este es el primer texto</div>
+                    <br>
+                    <a data-toggle="collapse" href="#dos">Segundo</a>
+                    <div id="dos" class="collapse">Este es el segundo texto</div>
+                    <br>
+                    <a data-toggle="collapse" href="#tres">Tercero</a>
+                    <div id="tres" class="collapse">Este es el tercer texto</div>
+                </div>
+                <div class="col-6">
+                    Ejemplo acordion: <br><br>
+                    <div id="acordion">
+                        <div class="card">
+                            <div class="card-header">
+                                <a href="#cuatro" class="card-linl" data-toggle="collapse" data-parent="#acordion">Cuarto</a>
+                            </div>
+                            <div id="cuatro" class="collapse">
+                                <div class="card-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                </div>
+                            </div>
+                            <div class="card-header">
+                                <a href="#cinco" class="card-linl" data-toggle="collapse" data-parent="#acordion">Cinco</a>
+                            </div>
+                            <div id="cinco" class="collapse show">
+                                <div class="card-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <script src="js/jquery-3.3.1.slim.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+
+</html>
+
