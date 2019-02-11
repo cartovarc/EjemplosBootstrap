@@ -15,4 +15,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [Jumbotron y Alert](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploJumbotronAlert.html)
 * [Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBotones.html)
 * [Grupo Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploGruposBotones.html)
-
+* [Insignias](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploInsignias.html)
