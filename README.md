@@ -19,3 +19,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [13. Barras Progreso](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBarrasProgreso.html)
 * [14. Paginación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploPaginacion.html)
 * [15. Listas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploLista.html)
+* [16. Tarjetas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTarjetas.html)
