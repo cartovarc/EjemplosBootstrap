@@ -21,4 +21,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [15. Listas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploLista.html)
 * [16. Tarjetas](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploTarjetas.html)
 * [17. Menu Desplegable](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploMenuDesplegable.html)
-* [17. Plegable](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploPlegable.html)
+* [18. Plegable](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploPlegable.html)
