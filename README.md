@@ -14,7 +14,7 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [8. Imagenes](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploImagenes.html)
 * [9. Jumbotron y Alert](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploJumbotronAlert.html)
 * [10. Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBotones.html)
-* [11. Grupo Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploGruposBotones.html)
+* [11. Grupo Botones](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploGrupoBotones.html)
 * [12. Insignias](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploInsignias.html)
 * [13. Barras Progreso](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBarrasProgreso.html)
 * [14. Paginación](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploPaginacion.html)
