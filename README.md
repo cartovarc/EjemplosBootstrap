@@ -25,4 +25,4 @@ Se siguió este [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t
 * [19. Barra Navegacion](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploBarraNavegacion.html)
 * [20. Formulario](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploFormulario.html)
 * [21. Carrusel](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploCarrusel.html)
-* [22. Carrusel](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploModal.html)
+* [22. Modal](https://carlosfernandotovarceron.github.io/EjemplosBootstrap/EjemploModal.html)
