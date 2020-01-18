@@ -1,6 +1,6 @@
 # Ejemplos Bootstrap
 
-Se siguió éste [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4&t=5132s) y se trató de dar casi los mismos ejemplos que se muestran en él.
+Se siguió éste [curso en youtube](https://www.youtube.com/watch?v=-83eiJ9EaD4) y se trató de dar casi los mismos ejemplos que se muestran en él.
 
 ## Ejemplos tratados:
 
